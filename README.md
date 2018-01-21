@@ -1,10 +1,10 @@
 # daShop
 
 
-#About
-Eccommerce Web Application developed using PHP
+# About
+E-Commerce Web Application developed using PHP
 
-#Installation
+# Installation
 Just use wamp or xamp and check localhost/daShop
 Use the following credentials to test 
 
